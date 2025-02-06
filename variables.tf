@@ -2,13 +2,13 @@
 
 variable "cloud_id" {
   type        = string
-  default     = "b1gm8mvrffndc4c8ccli"
+  default     = "тут могла быть ваша реклама"
   description = "https://cloud.yandex.ru/docs/resource-manager/operations/cloud/get-id"
 }
 
 variable "folder_id" {
   type        = string
-  default     = "b1g3c3ua7al3753cfmh3"
+  default     = "тут могла быть ваша реклама"
   description = "https://cloud.yandex.ru/docs/resource-manager/operations/folder/get-id"
 }
 
